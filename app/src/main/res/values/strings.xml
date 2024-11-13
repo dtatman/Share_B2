@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserSettingsApp</string>
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="font_size">Kích thước chữ</string>
+    <string-array name="font_size_options">
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+    </string-array>
+</resources>
